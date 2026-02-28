@@ -4,4 +4,4 @@ python-multipart>=0.0.20
 Pillow>=11.1.0
 rembg>=2.0.72
 rembg[cpu]
-onnxruntime
+onnxruntime==1.17.3
